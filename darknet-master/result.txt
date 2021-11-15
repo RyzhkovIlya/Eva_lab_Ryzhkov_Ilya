@@ -1,0 +1,14 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 24, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 376 K-images (5 Kilo-batches_64) 
+ Detection layer: 139 - type = 28 
+ Detection layer: 150 - type = 28 
+ Detection layer: 161 - type = 28 
+C:/Easy_Recycle/data/prediction.jpg: Predicted in 293.177000 milli-seconds.
+40-41 Metal: 97%	(left_x:  228   top_y:  510   width:  114   height:  152)
