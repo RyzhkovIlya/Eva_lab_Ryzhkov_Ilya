@@ -18,3 +18,6 @@
 Пример запуска: python3 detector.py  --source video.mp4
  
 В результате, должно проигрываться видео с отрисованными bounding box-ами.
+
+## Запуск кода
+**python3 detector.py  --source название файла**
