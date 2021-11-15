@@ -2,7 +2,7 @@ import os
 import os.path
 import argparse
 
-PH = 'C:/Sigarette/darknet-master/'
+PH = 'C:/Sigarette/darknet-master/' # Необходимо указать путь до папки darknet-master
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--source")
